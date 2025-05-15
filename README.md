@@ -1,11 +1,11 @@
 ## Hi there 👋
 # Nihil Shastri
-**Aspiring Data Scientist | Python & Data Analytics Enthusiast**
+***Multidisciplinary Engineer | Data Science + Civil | Dam & Water Infrastructure | Python • Power BI • AWS • SQL • Revit • AutoCAD • Project Analytics***
 
 ---
 
 ## About Me:
-- 🎓 **MS in Computer Science** at the University of Bridgeport.
+- 🎓 **MS in Computer Science**
 - 🧠 problem-solving.
 - 💼 5 years of experience managing large-scale infrastructure projects (e.g., Sardar Sarovar Dam).
 - 📊 Skilled in data analysis, reporting, and visualization using Python, Excel, and Power BI.
