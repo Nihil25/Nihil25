@@ -5,7 +5,7 @@
 ---
 
 ## About Me:
-- 🎓 Currently pursuing an **MS in Computer Science** at the University of Bridgeport.
+- 🎓 **MS in Computer Science** at the University of Bridgeport.
 - 🧠 problem-solving.
 - 💼 5 years of experience managing large-scale infrastructure projects (e.g., Sardar Sarovar Dam).
 - 📊 Skilled in data analysis, reporting, and visualization using Python, Excel, and Power BI.
